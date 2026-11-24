@@ -92,6 +92,7 @@ header{position:sticky;top:0;z-index:50;background:rgba(251,246,239,.95);backdro
 .card-body{padding:22px;display:flex;flex-direction:column;gap:10px;flex:1}
 .card-body p{color:var(--muted);font-size:.98rem}
 .card-foot{display:flex;align-items:center;justify-content:space-between;gap:12px;margin-top:auto;padding-top:14px;border-top:1px solid var(--line)}
+.card-foot .btn{flex:1;white-space:nowrap;padding:11px 14px;font-size:.93rem}
 .tag{display:inline-block;background:var(--clay-l);color:var(--clay-d);font-weight:800;font-size:.84rem;border-radius:999px;padding:4px 12px;width:max-content}
 
 /* sekcja "na miejscu" */
